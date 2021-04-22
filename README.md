@@ -1,8 +1,8 @@
 # Prueba Inalambria
 1. [Descripción](#Descripción-)
-2. [Configuración del proyecto](#Configuración-del-proyecto-)
+2. [Configuración del proyecto](#configuraci%C3%B3n-del-proyecto-%EF%B8%8F)
 3. [Utilidades](#Utilidades-)
-4. [Ejecución del proyecto](#Ejecución-del-proyecto-)
+4. [Ejecución del proyecto](#ejecuci%C3%B3n-del-proyecto-%EF%B8%8F)
 5. [Tecnologías](#Tecnologías-)
 6. [Autor](#Autor-)
 
