@@ -1,0 +1,6 @@
+C:\Users\danie\Downloads\Prueba_DanielCalderon\Servicio Principal\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\danie\Downloads\Prueba_DanielCalderon\Servicio Principal\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\danie\Downloads\Prueba_DanielCalderon\Servicio Principal\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+C:\Users\danie\Downloads\Prueba_DanielCalderon\Servicio Principal\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Prueba_DanielCalderon\Servicio Principal\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\danie\Downloads\Prueba_DanielCalderon\Servicio Principal\ViewModels\obj\Debug\ViewModels.pdb

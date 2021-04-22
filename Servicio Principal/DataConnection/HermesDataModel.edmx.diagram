@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="54957008b69d48c196b08749ecf0b727" Name="Diagram1">
+        <EntityTypeShape EntityType="HermesModel.Companies" Width="1.5" PointX="0.75" PointY="5.125" />
+        <EntityTypeShape EntityType="HermesModel.SaleDetail" Width="1.5" PointX="5.25" PointY="1.125" />
+        <EntityTypeShape EntityType="HermesModel.Sales" Width="1.5" PointX="3" PointY="1" />
+        <EntityTypeShape EntityType="HermesModel.Users" Width="1.5" PointX="0.75" PointY="1.125" />
+        <AssociationConnector Association="HermesModel.FK_Sales_Companies" />
+        <AssociationConnector Association="HermesModel.FK_SaleDetail_Sales" />
+        <AssociationConnector Association="HermesModel.FK_Sales_Users" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
